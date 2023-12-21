@@ -10,3 +10,4 @@
 
 ## eslint
 - [记一次升级webpack 5引出的css modules 语法变更的自定义 eslint 插件](https://github.com/csu-feizao/blog/issues/1)
+- [构建鲁棒性：自定义 Eslint 规则增强 React 错误边界在前端应用中的控制力度](https://github.com/csu-feizao/blog/issues/5)
